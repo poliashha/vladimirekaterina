@@ -536,7 +536,7 @@ body {
 }
 
 .restoran{
-  padding-top: 10px;
+  padding-top: 67px;
 }
 
 .line-timer{
@@ -573,7 +573,7 @@ body {
   content: '2';
   font-family: var(--kursiv-text);
   font-size: 60px;
-  top: 34px;
+  top: 37px;
   left: -12px;
   color: #858583;
 }
