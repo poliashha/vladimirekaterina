@@ -96,5 +96,5 @@ function startCountdown(targetDate) {
   setInterval(updateTimer, 1000);
 }
 
-const newYear = new Date(2026, 7, 8, 9, 0, 0).getTime();
+const newYear = new Date(2026, 6, 17, 14, 0, 0).getTime();
 startCountdown(newYear);
