@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Cormorant';
+  src:
+    url("./Cormorant-Regular.woff2") format("woff2"),
+    url("./Cormorant-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rebies';
+  src:
+    url("./rebies.woff2") format("woff2"),
+    url("./rebies.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Imperial';
+  src:
+    url("./ofont.ru_Imperial.woff2") format("woff2"),
+    url("./ofont.ru_Imperial.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
