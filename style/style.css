@@ -465,7 +465,7 @@ body {
 }
 
 .timer-text {
-  width: 78px;
+  width: 70px;
   font-size: 64px;
   text-align: center;
   font-family: var(--main-font);
@@ -486,7 +486,7 @@ body {
   content: "дней";
   position: absolute;
   top: 65px;
-  right: 22px;
+  right: 20px;
   font-size: 12px;
   font-family: var(--main-font);
   font-weight: 400;
@@ -498,7 +498,7 @@ body {
   content: "часов";
   position: absolute;
   top: 65px;
-  right: 20px;
+  right: 16px;
   font-size: 12px;
   font-family: var(--main-font);
   font-weight: 400;
@@ -510,7 +510,7 @@ body {
   content: "минут";
   position: absolute;
   top: 65px;
-  right: 18px;
+  right: 14px;
   font-size: 12px;
   font-family: var(--main-font);
   font-weight: 400;
@@ -522,7 +522,7 @@ body {
   content: "секунд";
   position: absolute;
   top: 65px;
-  right: 18px;
+  right: 14px;
   font-size: 12px;
   font-family: var(--main-font);
   font-weight: 400;
