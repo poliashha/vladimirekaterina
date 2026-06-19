@@ -26,12 +26,11 @@ form.addEventListener("submit", async (e) => {
       body: newFormData,
     });
     formSendResult.textContent = "Спасибо! Анкета отправлена.";
-    form.reset(); // Очищаем форму
+    form.reset(); 
   } catch (error) {
     formSendResult.textContent = "Повторите попытку позже.";
     console.error(error);
   } finally {
-    // Возвращаем кнопку в исходное состояние
     submitButton.textContent = "Отправить";
   }
 });
