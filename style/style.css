@@ -563,7 +563,7 @@ body {
   content: '1';
   font-family: var(--kursiv-text);
   font-size: 60px;
-  top: 17px;
+  top: 22px;
   left: -9px;
   color: #858583;
 }
@@ -583,7 +583,7 @@ body {
   content: '3';
   font-family: var(--kursiv-text);
   font-size: 60px;
-  top: 34px;
+  top: 40px;
   left: -12px;
   color: #858583;
 }
