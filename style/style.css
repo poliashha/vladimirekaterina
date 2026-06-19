@@ -541,9 +541,13 @@ body {
 
 .line-timer{
   display: block;
-   border: 0.50px solid rgba(84, 84, 84, 0.63);
-width: 366px;
-height: 0px;
+  width: 366px;
+  height: 0.5px;
+  background-color: rgba(84, 84, 84, 0.63);
+}
+
+.size{
+  background-color: rgba(84, 84, 84, 0.377);
 }
 
 .text-timer{
