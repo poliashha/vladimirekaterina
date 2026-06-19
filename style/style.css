@@ -567,7 +567,7 @@ body {
   content: '1';
   font-family: var(--kursiv-text);
   font-size: 60px;
-  top: 25px;
+  top: 27px;
   left: -9px;
   color: #858583;
 }
@@ -577,7 +577,7 @@ body {
   content: '2';
   font-family: var(--kursiv-text);
   font-size: 60px;
-  top: 37px;
+  top: 45px;
   left: -12px;
   color: #858583;
 }
