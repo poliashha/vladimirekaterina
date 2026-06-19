@@ -567,7 +567,7 @@ body {
   font-family: var(--kursiv-text);
   font-size: 60px;
   top: 27px;
-  left: -14px;
+  left: -12px;
   color: #858583;
 }
 
@@ -577,7 +577,7 @@ body {
   font-family: var(--kursiv-text);
   font-size: 60px;
   top: 45px;
-  left: -14px;
+  left: -12px;
   color: #858583;
 }
 
@@ -586,7 +586,7 @@ body {
   content: '3';
   font-family: var(--kursiv-text);
   font-size: 60px;
-  top: 48px;
-  left: -14px;
+  top: 46px;
+  left: -12px;
   color: #858583;
 }
